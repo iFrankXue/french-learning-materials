@@ -1,0 +1,38 @@
+{
+  "link.title.Docs": {
+    "message": "Library",
+    "description": "The title of the footer links column with title=Docs in the footer"
+  },
+  "link.title.Languages": {
+    "message": "Languages",
+    "description": "The title of the footer links column with title=Languages in the footer"
+  },
+  "link.title.About": {
+    "message": "About",
+    "description": "The title of the footer links column with title=About in the footer"
+  },
+  "link.item.label.浏览资料": {
+    "message": "Browse resources",
+    "description": "The label of footer link with label=浏览资料 linking to /docs/intro"
+  },
+  "link.item.label.简体中文": {
+    "message": "简体中文",
+    "description": "The label of footer link with label=简体中文 linking to /"
+  },
+  "link.item.label.Français": {
+    "message": "Français",
+    "description": "The label of footer link with label=Français linking to /fr/"
+  },
+  "link.item.label.English": {
+    "message": "English",
+    "description": "The label of footer link with label=English linking to /en/"
+  },
+  "link.item.label.关于本站": {
+    "message": "About this site",
+    "description": "The label of footer link with label=关于本站 linking to /docs/intro"
+  },
+  "copyright": {
+    "message": "© 2026 French Learning Library · Built with Docusaurus",
+    "description": "The footer copyright"
+  }
+}

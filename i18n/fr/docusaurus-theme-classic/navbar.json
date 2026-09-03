@@ -1,0 +1,10 @@
+{
+  "title": {
+    "message": "Ressources pour le français",
+    "description": "The title in the navbar"
+  },
+  "item.label.资料库": {
+    "message": "Ressources",
+    "description": "Navbar item with label 资料库"
+  }
+}
