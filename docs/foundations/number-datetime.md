@@ -10,28 +10,46 @@ description: 法语的数字以及日期时间的表达。
 
 ### 法语数字 1 - 10
 
-1 – un
-2 – deux
-3 – trois
-4 – quatre
-5 – cinq
-6 – six
-7 – sept
-8 – huit
-9 – neuf
-10 – dix
+    1 – un
+
+    2 – deux
+
+    3 – trois
+
+    4 – quatre
+
+    5 – cinq
+
+    6 – six
+
+    7 – sept
+
+    8 – huit
+
+    9 – neuf
+
+    10 – dix
 
 ### 法语数字 11 - 20
 
 11 – onze
+
 12 – douze
+
 13 – treize
+
 14 – quatorze
+
 15 – quinze
+
 16 – seize
+
 17 – dix-sept
+
 18 – dix-huit
+
 19 – dix-neuf
+
 20 – vingt
 
 ### 法语数字 21 - 69
@@ -147,6 +165,15 @@ quarante (40) + neuf (9) = quarante-neuf (49)
 十月 – octobre
 十一月 – novembre
 十二月 – décembre
+
+### 一年季节
+
+春天 – le printemps
+夏天 – l'été
+秋天 – l'automne
+冬天 – l'hiver
+
+
 
 
 ## 3. 时间表达
