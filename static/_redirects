@@ -1,0 +1,15 @@
+/docs/intro / 301
+/fr/docs/intro /fr/ 301
+/en/docs/intro /en/ 301
+/docs/* /:splat 301
+/fr/docs/* /fr/:splat 301
+/en/docs/* /en/:splat 301
+/category/foundations /foundations/ 301
+/category/skills /skills/ 301
+/category/tools /tools/ 301
+/fr/category/foundations /fr/foundations/ 301
+/fr/category/skills /fr/skills/ 301
+/fr/category/tools /fr/tools/ 301
+/en/category/foundations /en/foundations/ 301
+/en/category/skills /en/skills/ 301
+/en/category/tools /en/tools/ 301

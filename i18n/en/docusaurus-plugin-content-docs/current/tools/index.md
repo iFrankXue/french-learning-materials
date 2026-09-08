@@ -1,9 +1,13 @@
 ---
 sidebar_position: 1
-title: Learning tools overview
-description: A placeholder for French-learning tools and resources.
+title: Learning tools
+description: Practical dictionaries, corpora, courses, and tools for learning French.
 ---
 
-# Learning tools
+This section brings together dictionaries, corpora, online courses, and other practical tools for everyday study.
 
-This section will bring together dictionaries, corpora, online courses, and practical tools for everyday study.
+:::info Content in progress
+
+This section will continue to add useful, carefully selected resources.
+
+:::

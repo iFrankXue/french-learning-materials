@@ -1,43 +1,4 @@
 {
-  "homepage.eyebrow": {
-    "message": "FRENCH, STEP BY STEP"
-  },
-  "homepage.title": {
-    "message": "Learn French with clarity"
-  },
-  "homepage.subtitle": {
-    "message": "Useful French-learning resources, collected and connected so every search becomes a step forward."
-  },
-  "homepage.cta": {
-    "message": "Explore the library"
-  },
-  "homepage.metaTitle": {
-    "message": "Home"
-  },
-  "homepage.metaDescription": {
-    "message": "A clear, evolving library of resources for learning French."
-  },
-  "homepage.exploreTitle": {
-    "message": "Start exploring"
-  },
-  "homepage.card.foundation.title": {
-    "message": "Foundations"
-  },
-  "homepage.card.foundation.body": {
-    "message": "Build a reliable base with pronunciation, vocabulary, and essential grammar."
-  },
-  "homepage.card.skills.title": {
-    "message": "Core skills"
-  },
-  "homepage.card.skills.body": {
-    "message": "Improve listening, speaking, reading, and writing with focused practice."
-  },
-  "homepage.card.tools.title": {
-    "message": "Learning tools"
-  },
-  "homepage.card.tools.body": {
-    "message": "Find dictionaries, corpora, courses, and practical tools in one place."
-  },
   "theme.ErrorPageContent.title": {
     "message": "This page crashed.",
     "description": "The title of the fallback page when the page crashed"

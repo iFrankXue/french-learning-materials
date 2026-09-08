@@ -1,35 +1,19 @@
 {
-  "link.title.Docs": {
+  "link.title.资料库": {
     "message": "Ressources",
-    "description": "The title of the footer links column with title=Docs in the footer"
+    "description": "The title of the footer links column"
   },
-  "link.title.Languages": {
-    "message": "Languages",
-    "description": "The title of the footer links column with title=Languages in the footer"
+  "link.item.label.基础入门": {
+    "message": "Les fondamentaux",
+    "description": "The label of the foundations footer link"
   },
-  "link.title.About": {
-    "message": "À propos",
-    "description": "The title of the footer links column with title=About in the footer"
+  "link.item.label.专项提升": {
+    "message": "Compétences ciblées",
+    "description": "The label of the skills footer link"
   },
-  "link.item.label.浏览资料": {
-    "message": "Explorer les ressources",
-    "description": "The label of footer link with label=浏览资料 linking to /docs/intro"
-  },
-  "link.item.label.简体中文": {
-    "message": "简体中文",
-    "description": "The label of footer link with label=简体中文 linking to /"
-  },
-  "link.item.label.Français": {
-    "message": "Français",
-    "description": "The label of footer link with label=Français linking to /fr/"
-  },
-  "link.item.label.English": {
-    "message": "English",
-    "description": "The label of footer link with label=English linking to /en/"
-  },
-  "link.item.label.关于本站": {
-    "message": "À propos du site",
-    "description": "The label of footer link with label=关于本站 linking to /docs/intro"
+  "link.item.label.学习工具": {
+    "message": "Outils d'apprentissage",
+    "description": "The label of the tools footer link"
   },
   "copyright": {
     "message": "© 2026 Ressources pour le français · Créé avec Docusaurus",

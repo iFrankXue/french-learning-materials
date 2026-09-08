@@ -1,9 +1,13 @@
 ---
 sidebar_position: 1
-title: Vue d'ensemble des compétences
-description: Page d'accueil des compétences en français.
+title: Compétences ciblées
+description: Travaillez la compréhension orale, l'expression orale, la lecture et l'écriture.
 ---
 
-# Compétences ciblées
+Cette rubrique rassemble des méthodes et des ressources ciblées pour progresser en compréhension orale, expression orale, lecture et écriture.
 
-Cette rubrique réunira des méthodes et des ressources pour progresser en compréhension orale, expression orale, lecture et écriture.
+:::info Contenu en préparation
+
+Cette rubrique sera régulièrement enrichie de parcours d’entraînement pour chaque compétence.
+
+:::

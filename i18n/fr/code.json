@@ -1,43 +1,4 @@
 {
-  "homepage.eyebrow": {
-    "message": "LE FRANÇAIS, PAS À PAS"
-  },
-  "homepage.title": {
-    "message": "Apprendre le français plus clairement"
-  },
-  "homepage.subtitle": {
-    "message": "Des ressources utiles, organisées et reliées pour transformer chaque recherche en un pas de plus."
-  },
-  "homepage.cta": {
-    "message": "Explorer les ressources"
-  },
-  "homepage.metaTitle": {
-    "message": "Accueil"
-  },
-  "homepage.metaDescription": {
-    "message": "Une bibliothèque claire et évolutive pour apprendre le français."
-  },
-  "homepage.exploreTitle": {
-    "message": "Commencez votre exploration"
-  },
-  "homepage.card.foundation.title": {
-    "message": "Les fondamentaux"
-  },
-  "homepage.card.foundation.body": {
-    "message": "Commencez par la prononciation, le vocabulaire et la grammaire essentielle."
-  },
-  "homepage.card.skills.title": {
-    "message": "Compétences ciblées"
-  },
-  "homepage.card.skills.body": {
-    "message": "Progressez en compréhension, expression, lecture et écriture."
-  },
-  "homepage.card.tools.title": {
-    "message": "Outils d'apprentissage"
-  },
-  "homepage.card.tools.body": {
-    "message": "Retrouvez dictionnaires, corpus, cours et outils pratiques au même endroit."
-  },
   "theme.ErrorPageContent.title": {
     "message": "Cette page a planté.",
     "description": "The title of the fallback page when the page crashed"

@@ -1,5 +1,5 @@
 {
   "label": "Les fondamentaux",
   "position": 2,
-  "link": {"type": "generated-index", "slug": "/category/foundations", "description": "Prononciation, vocabulaire et grammaire essentielle."}
+  "link": {"type": "doc", "id": "foundations/index"}
 }

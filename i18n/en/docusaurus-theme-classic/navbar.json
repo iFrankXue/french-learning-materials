@@ -2,9 +2,5 @@
   "title": {
     "message": "French Learning Library",
     "description": "The title in the navbar"
-  },
-  "item.label.资料库": {
-    "message": "Library",
-    "description": "Navbar item with label 资料库"
   }
 }

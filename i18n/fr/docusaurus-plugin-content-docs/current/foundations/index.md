@@ -1,9 +1,13 @@
 ---
 sidebar_position: 1
-title: Vue d'ensemble des fondamentaux
-description: Page d'accueil des contenus fondamentaux.
+title: Les fondamentaux
+description: Commencez par la prononciation, le vocabulaire courant et la grammaire essentielle.
 ---
 
-# Les fondamentaux
+Commencez par la prononciation, le vocabulaire courant et la grammaire essentielle pour construire progressivement un parcours de niveau débutant.
 
-Cette rubrique accueillera les ressources sur la prononciation, le vocabulaire courant, la grammaire essentielle et les parcours pour débutants.
+:::info Contenu en préparation
+
+Cette rubrique sera régulièrement enrichie de ressources structurées pour les débutants.
+
+:::

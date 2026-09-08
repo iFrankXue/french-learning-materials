@@ -1,9 +1,13 @@
 ---
 sidebar_position: 1
-title: Foundations overview
-description: A placeholder for foundational French-learning content.
+title: Foundations
+description: Start learning French with pronunciation, everyday vocabulary, and essential grammar.
 ---
 
-# Foundations
+Start with pronunciation, everyday vocabulary, and essential grammar to build a structured beginner learning path.
 
-This section will cover pronunciation, everyday vocabulary, essential grammar, and beginner learning paths.
+:::info Content in progress
+
+This section will continue to grow with structured resources for beginners.
+
+:::

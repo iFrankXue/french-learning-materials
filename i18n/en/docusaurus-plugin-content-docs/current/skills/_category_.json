@@ -1,5 +1,5 @@
 {
   "label": "Core skills",
   "position": 3,
-  "link": {"type": "generated-index", "slug": "/category/skills", "description": "Focused listening, speaking, reading, and writing practice."}
+  "link": {"type": "doc", "id": "skills/index"}
 }

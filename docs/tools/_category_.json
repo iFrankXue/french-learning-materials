@@ -2,8 +2,7 @@
   "label": "学习工具",
   "position": 4,
   "link": {
-    "type": "generated-index",
-    "slug": "/category/tools",
-    "description": "实用的法语词典、语料库、课程与学习工具。"
+    "type": "doc",
+    "id": "tools/index"
   }
 }

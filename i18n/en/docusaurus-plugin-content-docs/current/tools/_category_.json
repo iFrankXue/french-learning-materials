@@ -1,5 +1,5 @@
 {
   "label": "Learning tools",
   "position": 4,
-  "link": {"type": "generated-index", "slug": "/category/tools", "description": "Dictionaries, corpora, courses, and practical tools."}
+  "link": {"type": "doc", "id": "tools/index"}
 }

@@ -40,6 +40,7 @@ const config: Config = {
       {
         docs: {
           sidebarPath: './sidebars.ts',
+          routeBasePath: '/',
         },
         blog: false,
         theme: {
@@ -63,12 +64,6 @@ const config: Config = {
       title: '法语学习资料库',
       items: [
         {
-          type: 'docSidebar',
-          sidebarId: 'tutorialSidebar',
-          position: 'left',
-          label: '资料库',
-        },
-        {
           type: 'localeDropdown',
           position: 'right',
         },
@@ -78,20 +73,19 @@ const config: Config = {
       style: 'dark',
       links: [
         {
-          title: 'Docs',
+          title: '资料库',
           items: [
             {
-              label: '浏览资料',
-              to: '/docs/intro',
+              label: '基础入门',
+              to: '/foundations/',
             },
-          ],
-        },
-        {
-          title: 'About',
-          items: [
             {
-              label: '关于本站',
-              to: '/docs/intro',
+              label: '专项提升',
+              to: '/skills/',
+            },
+            {
+              label: '学习工具',
+              to: '/tools/',
             },
           ],
         },

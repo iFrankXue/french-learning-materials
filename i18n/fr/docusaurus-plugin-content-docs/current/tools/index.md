@@ -1,9 +1,13 @@
 ---
 sidebar_position: 1
-title: Vue d'ensemble des outils
-description: Page d'accueil des outils d'apprentissage.
+title: Outils d'apprentissage
+description: Dictionnaires, corpus, cours et outils pratiques pour apprendre le français.
 ---
 
-# Outils d'apprentissage
+Cette rubrique rassemble dictionnaires, corpus, cours en ligne et autres outils utiles au quotidien.
 
-Cette rubrique rassemblera dictionnaires, corpus, cours en ligne et outils pratiques pour le quotidien.
+:::info Contenu en préparation
+
+Cette rubrique accueillera régulièrement de nouvelles ressources sélectionnées.
+
+:::

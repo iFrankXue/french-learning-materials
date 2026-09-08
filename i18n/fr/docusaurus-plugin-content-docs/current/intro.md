@@ -1,22 +1,33 @@
 ---
 sidebar_position: 1
-slug: /intro
-title: Bienvenue
-description: Présentation et mode d'emploi de la bibliothèque.
+slug: /
+title: Ressources
+sidebar_label: Accueil des ressources
+description: Parcourez les ressources pour apprendre le français selon votre niveau et vos besoins.
 ---
 
-# Bienvenue dans la bibliothèque
+Cette page est l’entrée principale du site. Tout le contenu est maintenu en chinois, puis synchronisé en français et en anglais.
 
-Ce site rassemblera, sélectionnera et organisera progressivement des ressources pour apprendre le français. Cette première version pose une structure claire et durable.
+## Parcourir les ressources
+
+### [Les fondamentaux](./foundations/index.md)
+
+Commencez par la prononciation, le vocabulaire courant et la grammaire essentielle pour construire des bases solides.
+
+### [Compétences ciblées](./skills/index.md)
+
+Travaillez la compréhension orale, l’expression orale, la lecture et l’écriture avec des méthodes et des ressources ciblées.
+
+### [Outils d’apprentissage](./tools/index.md)
+
+Retrouvez dictionnaires, corpus, cours en ligne et autres outils utiles au quotidien.
 
 ## Comment utiliser le site
 
-- Commencez par « Les fondamentaux » pour la prononciation, le vocabulaire et la grammaire.
-- Travaillez une compétence précise dans « Compétences ciblées ».
-- Retrouvez dictionnaires, corpus et sites utiles dans « Outils d'apprentissage ».
+Utilisez le sommaire à gauche pour parcourir les thèmes, ou choisissez ci-dessus la rubrique qui correspond à votre besoin actuel. Les nouvelles ressources sont ajoutées depuis le dossier chinois docs/, puis synchronisées lors de la publication.
 
-:::info Contenu en préparation
+:::info En cours d’enrichissement
 
-Ces pages servent actuellement de repères. La navigation se mettra à jour automatiquement à mesure que de nouveaux contenus seront ajoutés.
+La bibliothèque est dans sa première version. Les rubriques et les contenus évolueront progressivement selon les besoins d’apprentissage.
 
 :::
