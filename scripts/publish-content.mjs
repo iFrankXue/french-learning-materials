@@ -3,7 +3,7 @@ import path from 'node:path';
 import process from 'node:process';
 
 const root = path.resolve(import.meta.dirname, '..');
-const message = process.argv.slice(2).join(' ').trim() || 'Update multilingual library content';
+const message = process.argv.slice(2).join(' ').trim() || 'Update library content';
 const managedRoots = ['docs/', 'i18n/', '.translation-cache.json'];
 
 const branch = capture('git', ['branch', '--show-current']).trim();
@@ -25,7 +25,6 @@ if (unrelatedStaged.length) {
   process.exit(1);
 }
 
-run('npm', ['run', 'translate']);
 run('npm', ['run', 'check']);
 run('git', ['add', 'docs', 'i18n', '.translation-cache.json']);
 
