@@ -18,6 +18,8 @@
   --ifm-navbar-background-color: rgb(253 251 247 / 92%);
   --ifm-navbar-shadow: 0 1px 0 rgb(23 35 61 / 9%);
   --ifm-code-font-size: 95%;
+  --site-shell-max-width: 1440px;
+  --site-shell-gutter: 1.5rem;
   --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.1);
 }
 
@@ -40,4 +42,14 @@
 
 .navbar__title {
   letter-spacing: -0.02em;
+}
+
+@media (min-width: 997px) {
+  .navbar__inner,
+  .main-wrapper,
+  .footer > .container {
+    width: calc(100% - 2 * var(--site-shell-gutter));
+    max-width: var(--site-shell-max-width);
+    margin-inline: auto;
+  }
 }
