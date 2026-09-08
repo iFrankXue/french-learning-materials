@@ -10,8 +10,9 @@
       "model": "existing"
     },
     "en/foundations/pronunciation-rules.md": {
-      "sourceHash": "579ca5a14e407d329eda3ef1ad3762f8f91a0dd99750783a06d3e480974e1698",
-      "model": "existing"
+      "sourceHash": "ee4970568a39b0b0e970b05fb7a4448a1f88cdfca97516344851ecc7e0a17fbc",
+      "model": "gpt-5-mini",
+      "translatedAt": "2026-09-08T03:23:57.256Z"
     },
     "en/intro.md": {
       "sourceHash": "266cb39bbf1b5eba0127cf7db6e0f3e17277a967310c9a4ace3ab7f4c3553689",
@@ -42,8 +43,9 @@
       "model": "existing"
     },
     "fr/foundations/pronunciation-rules.md": {
-      "sourceHash": "579ca5a14e407d329eda3ef1ad3762f8f91a0dd99750783a06d3e480974e1698",
-      "model": "existing"
+      "sourceHash": "ee4970568a39b0b0e970b05fb7a4448a1f88cdfca97516344851ecc7e0a17fbc",
+      "model": "gpt-5-mini",
+      "translatedAt": "2026-09-08T03:23:43.883Z"
     },
     "fr/intro.md": {
       "sourceHash": "266cb39bbf1b5eba0127cf7db6e0f3e17277a967310c9a4ace3ab7f4c3553689",

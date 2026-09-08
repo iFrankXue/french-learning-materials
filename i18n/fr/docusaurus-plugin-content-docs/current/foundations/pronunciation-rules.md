@@ -1,13 +1,21 @@
 ---
 sidebar_position: 2
 title: Règles de prononciation
-description: Apprenez l’alphabet français, les sons et les principales règles de lecture.
+description: Apprendre les lettres, les phonèmes et les règles de lecture courantes du français.
 ---
 
-Cette page rassemble l’alphabet français, les sons et les principales règles de lecture.
+Cette page sert à répertorier les lettres, les phonèmes et les règles de lecture courantes en français。
+
+基础发音规则
+
+- Le e final n'est pas prononcé
+- Le h n'est jamais prononcé
+- Deux lettres identiques consécutives ne font qu'un seul son
+- Les consonnes finales ne se prononcent pas, sauf c, f, l et r
+
 
 :::info Contenu en préparation
 
-Le contenu détaillé sur les règles de prononciation sera ajouté progressivement.
+Les détails des règles de prononciation seront ajoutés progressivement par la suite。
 
 :::
