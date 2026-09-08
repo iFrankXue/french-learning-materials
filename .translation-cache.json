@@ -38,44 +38,6 @@
     "en/tools/index.md": {
       "sourceHash": "232c54cbc7acf9d0bca5cf1878967517426689561556685b042629f3e1e34a57",
       "model": "existing"
-    },
-    "fr/foundations/_category_.json": {
-      "sourceHash": "0b3133a829f39c0e6423389519f1dda86464b7e75b0650cb2d150808bbb50b0c",
-      "model": "existing"
-    },
-    "fr/foundations/index.md": {
-      "sourceHash": "9047c5a71560f172c90f19b5cfc99b36bf2d32749cfb5e5f4c03b834ba94ec0f",
-      "model": "existing"
-    },
-    "fr/foundations/number-datetime.md": {
-      "sourceHash": "5ba6dc82fa5b728257262b487109e79854be7d8241765d50e32d4bdcbfb4096b",
-      "model": "gpt-5-mini",
-      "translatedAt": "2026-09-08T04:47:18.455Z"
-    },
-    "fr/foundations/pronunciation-rules.md": {
-      "sourceHash": "3ceb48ff5de97025ec7e0e91321039c6907b3245323f86d56e45299c058278f4",
-      "model": "gpt-5-mini",
-      "translatedAt": "2026-09-08T04:47:58.126Z"
-    },
-    "fr/intro.md": {
-      "sourceHash": "266cb39bbf1b5eba0127cf7db6e0f3e17277a967310c9a4ace3ab7f4c3553689",
-      "model": "existing"
-    },
-    "fr/skills/_category_.json": {
-      "sourceHash": "abe3d9d0079a308c45a09c3a47c4666852c06a72be8ecbde5c1553e09a6cc00e",
-      "model": "existing"
-    },
-    "fr/skills/index.md": {
-      "sourceHash": "bf4ee1410ea762b12169e9b1721885a61c44c3aa05fe7d473ed3425aeee1a0f1",
-      "model": "existing"
-    },
-    "fr/tools/_category_.json": {
-      "sourceHash": "5e9d7f18318b71ba981280bac0d410056e731ea5e4b5d39b31756c6db1f2f584",
-      "model": "existing"
-    },
-    "fr/tools/index.md": {
-      "sourceHash": "232c54cbc7acf9d0bca5cf1878967517426689561556685b042629f3e1e34a57",
-      "model": "existing"
     }
   }
 }

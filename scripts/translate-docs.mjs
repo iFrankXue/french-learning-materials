@@ -11,7 +11,6 @@ const args = new Set(process.argv.slice(2));
 const checkOnly = args.has('--check');
 const force = args.has('--force');
 const locales = [
-  {code: 'fr', name: 'French (France)'},
   {code: 'en', name: 'English'},
 ];
 

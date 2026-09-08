@@ -1,6 +1,6 @@
 # 法语学习资料库
 
-一个使用 Docusaurus 构建的多语言法语学习资料站。默认语言为简体中文，同时提供法语和英语版本。
+一个使用 Docusaurus 构建的双语法语学习资料站。默认语言为简体中文，同时提供英语版本。
 
 ## 本地开发
 
@@ -14,14 +14,13 @@ npm start
 默认启动中文站点。单独预览其他语言：
 
 ```bash
-npm start -- --locale fr
 npm start -- --locale en
 ```
 
 ## 内容结构
 
 - 中文原文放在 `docs/`，它是文档内容的唯一来源。
-- 法语和英语文档由翻译脚本增量生成到 `i18n/`；不要直接修改生成的翻译文件。
+- 英语文档由翻译脚本增量生成到 `i18n/en/`；不要直接修改生成的翻译文件。
 - 侧栏会根据文件夹结构自动生成；通过各目录的 `_category_.json` 控制栏目名称与顺序。
 
 ## 内容翻译与发布
@@ -36,7 +35,7 @@ cp .env.example .env.local
 
 在 VS Code 中编辑 `docs/` 后，打开命令面板并选择 **Tasks: Run Build Task**，即可运行“发布资料库内容”。它会：
 
-1. 完成类型检查和三语生产构建；
+1. 完成类型检查和中英双语生产构建；
 2. 提交现有内容并推送到 `main`；
 3. 触发 Cloudflare Pages 自动部署。
 
@@ -80,7 +79,7 @@ npm run build
 npm run serve
 ```
 
-`npm run build` 会一次生成中文、法语和英语静态站点到 `build/`。
+`npm run build` 会一次生成中文和英语静态站点到 `build/`。
 
 ## Cloudflare Pages
 
