@@ -45,6 +45,6 @@ npm run serve
 | Build command | `npm run build` |
 | Build output directory | `build` |
 | Environment variable | `NODE_VERSION=24` |
-| Environment variable | `SITE_URL=https://<项目名>.pages.dev` |
+| Environment variable | `SITE_URL=https://french.site258.com` |
 
-首次部署得到实际 `pages.dev` 地址后，请确保 `SITE_URL` 与该地址一致。之后推送到 `main` 会自动发布，Pull Request 会生成预览部署。
+Cloudflare Pages 项目的生产地址使用 `https://french.site258.com`。之后推送到 `main` 会自动发布，Pull Request 会生成预览部署。
