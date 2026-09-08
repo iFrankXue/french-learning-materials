@@ -1,0 +1,61 @@
+{
+  "version": 1,
+  "translations": {
+    "en/foundations/_category_.json": {
+      "sourceHash": "522b24898168dea749d2fafa08a41e11a9cb0331a493549f2697293962ee6350",
+      "model": "existing"
+    },
+    "en/foundations/index.md": {
+      "sourceHash": "3ecdfe1d2411754cf37758dd31b84c6dd6277bb329fb05ca90e0a36ca320bfad",
+      "model": "existing"
+    },
+    "en/intro.md": {
+      "sourceHash": "0a03d86f2e0aefc0d089a9cda2ff706f9a5a3684e6f5a85ee563e361b9e866c7",
+      "model": "existing"
+    },
+    "en/skills/_category_.json": {
+      "sourceHash": "e2cffe8e46d8fa0746527fcdd19da9b2e3eaf7d5dd9e90a654727d4930d45b8a",
+      "model": "existing"
+    },
+    "en/skills/index.md": {
+      "sourceHash": "e035160df9b91bba72f0dcec92426a7d9a5bd18c848afe81ecb3baabda3334b2",
+      "model": "existing"
+    },
+    "en/tools/_category_.json": {
+      "sourceHash": "332195f18210fe527c789e2bc7cbe6bde37528e2392bf78aa6a0dabd476376a6",
+      "model": "existing"
+    },
+    "en/tools/index.md": {
+      "sourceHash": "c4d2f32c54c6fec83dbf01c0d1948b0e305ad2f6877f02dda990faab0b600088",
+      "model": "existing"
+    },
+    "fr/foundations/_category_.json": {
+      "sourceHash": "522b24898168dea749d2fafa08a41e11a9cb0331a493549f2697293962ee6350",
+      "model": "existing"
+    },
+    "fr/foundations/index.md": {
+      "sourceHash": "3ecdfe1d2411754cf37758dd31b84c6dd6277bb329fb05ca90e0a36ca320bfad",
+      "model": "existing"
+    },
+    "fr/intro.md": {
+      "sourceHash": "0a03d86f2e0aefc0d089a9cda2ff706f9a5a3684e6f5a85ee563e361b9e866c7",
+      "model": "existing"
+    },
+    "fr/skills/_category_.json": {
+      "sourceHash": "e2cffe8e46d8fa0746527fcdd19da9b2e3eaf7d5dd9e90a654727d4930d45b8a",
+      "model": "existing"
+    },
+    "fr/skills/index.md": {
+      "sourceHash": "e035160df9b91bba72f0dcec92426a7d9a5bd18c848afe81ecb3baabda3334b2",
+      "model": "existing"
+    },
+    "fr/tools/_category_.json": {
+      "sourceHash": "332195f18210fe527c789e2bc7cbe6bde37528e2392bf78aa6a0dabd476376a6",
+      "model": "existing"
+    },
+    "fr/tools/index.md": {
+      "sourceHash": "c4d2f32c54c6fec83dbf01c0d1948b0e305ad2f6877f02dda990faab0b600088",
+      "model": "existing"
+    }
+  }
+}

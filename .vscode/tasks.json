@@ -1,0 +1,21 @@
+{
+  "version": "2.0.0",
+  "tasks": [
+    {
+      "label": "翻译并发布资料库",
+      "type": "shell",
+      "command": "npm run publish:content",
+      "group": {
+        "kind": "build",
+        "isDefault": true
+      },
+      "problemMatcher": []
+    },
+    {
+      "label": "仅更新法语和英语翻译",
+      "type": "shell",
+      "command": "npm run translate",
+      "problemMatcher": []
+    }
+  ]
+}

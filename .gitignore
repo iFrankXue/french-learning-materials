@@ -10,6 +10,8 @@
 
 # Misc
 .DS_Store
+
+# Local translation credentials
 .env.local
 .env.development.local
 .env.test.local

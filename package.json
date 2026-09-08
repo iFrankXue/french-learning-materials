@@ -12,6 +12,9 @@
     "serve": "docusaurus serve",
     "write-translations": "docusaurus write-translations",
     "write-heading-ids": "docusaurus write-heading-ids",
+    "translate": "node scripts/translate-docs.mjs",
+    "translate:check": "node scripts/translate-docs.mjs --check",
+    "publish:content": "node scripts/publish-content.mjs",
     "typecheck": "tsc --noEmit",
     "check": "npm run typecheck && npm run build"
   },
