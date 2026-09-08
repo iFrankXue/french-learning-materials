@@ -4,14 +4,28 @@ title: Pronunciation Rules
 description: Learn French letters, phonemes, and common pronunciation rules.
 ---
 
-This page collects French letters, phonemes, and common spelling-to-sound rules.
+This page organizes French letters, phonemes, and common spelling/pronunciation rules.
 
-Basic pronunciation rules
+## Basic pronunciation rules
 
-- e at the end is not pronounced
-- h is always silent
-- Two identical letters are pronounced as a single sound
-- Final consonants are not pronounced, except for c, f, l, r
+- 'e' is silent at the end of a word
+- 'h' is always silent
+- Double letters are pronounced as a single sound
+- Consonants at the end of words are silent, except for 'c', 'f', 'l', and 'r'
+
+
+## Pronunciation of letter combinations
+
+| Letter combination | Pronunciation | Examples |
+|---|---|---|
+| on |   | bonjour bon  mon  C’est bon |
+| en  em  an  am |   | enfant  enchanté |
+| ai |   | faire  Je t’aime |
+| ch |  | Chine  chinois |
+
+
+
+
 
 
 :::info Content coming soon

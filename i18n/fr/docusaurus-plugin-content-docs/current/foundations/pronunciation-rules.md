@@ -1,21 +1,35 @@
 ---
 sidebar_position: 2
 title: Règles de prononciation
-description: Apprendre les lettres, les phonèmes et les règles de lecture courantes du français.
+description: Apprendre les lettres, les phonèmes et les règles d'orthographe et de prononciation courantes du français.
 ---
 
-Cette page sert à répertorier les lettres, les phonèmes et les règles de lecture courantes en français。
+Cette page répertorie les lettres du français, les phonèmes et les règles fréquentes de prononciation.
 
-基础发音规则
+## Règles de base de prononciation
 
-- Le e final n'est pas prononcé
-- Le h n'est jamais prononcé
-- Deux lettres identiques consécutives ne font qu'un seul son
-- Les consonnes finales ne se prononcent pas, sauf c, f, l et r
+- 'e' final n'est pas prononcé
+- 'h' n'est jamais prononcé
+- Deux lettres identiques côte à côte n'indiquent qu'un seul son
+- Les consonnes finales ne se prononcent pas, sauf 'c', 'f', 'l' et 'r'
+
+
+## Prononciation des combinaisons de lettres
+
+| Combinaisons | Prononciation | Exemples |
+|---|---|---|
+| on |   | bonjour bon  mon  C’est bon |
+| en  em  an  am |   | enfant  enchanté |
+| ai |   | faire  Je t’aime |
+| ch |  | Chine  chinois |
+
+
+
+
 
 
 :::info Contenu en préparation
 
-Les détails des règles de prononciation seront ajoutés progressivement par la suite。
+Les détails des règles de prononciation seront complétés progressivement.
 
 :::

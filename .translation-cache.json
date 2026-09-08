@@ -9,10 +9,15 @@
       "sourceHash": "9047c5a71560f172c90f19b5cfc99b36bf2d32749cfb5e5f4c03b834ba94ec0f",
       "model": "existing"
     },
-    "en/foundations/pronunciation-rules.md": {
-      "sourceHash": "ee4970568a39b0b0e970b05fb7a4448a1f88cdfca97516344851ecc7e0a17fbc",
+    "en/foundations/number-datetime.md": {
+      "sourceHash": "5ba6dc82fa5b728257262b487109e79854be7d8241765d50e32d4bdcbfb4096b",
       "model": "gpt-5-mini",
-      "translatedAt": "2026-09-08T03:23:57.256Z"
+      "translatedAt": "2026-09-08T04:47:45.773Z"
+    },
+    "en/foundations/pronunciation-rules.md": {
+      "sourceHash": "3ceb48ff5de97025ec7e0e91321039c6907b3245323f86d56e45299c058278f4",
+      "model": "gpt-5-mini",
+      "translatedAt": "2026-09-08T04:48:17.603Z"
     },
     "en/intro.md": {
       "sourceHash": "266cb39bbf1b5eba0127cf7db6e0f3e17277a967310c9a4ace3ab7f4c3553689",
@@ -42,10 +47,15 @@
       "sourceHash": "9047c5a71560f172c90f19b5cfc99b36bf2d32749cfb5e5f4c03b834ba94ec0f",
       "model": "existing"
     },
-    "fr/foundations/pronunciation-rules.md": {
-      "sourceHash": "ee4970568a39b0b0e970b05fb7a4448a1f88cdfca97516344851ecc7e0a17fbc",
+    "fr/foundations/number-datetime.md": {
+      "sourceHash": "5ba6dc82fa5b728257262b487109e79854be7d8241765d50e32d4bdcbfb4096b",
       "model": "gpt-5-mini",
-      "translatedAt": "2026-09-08T03:23:43.883Z"
+      "translatedAt": "2026-09-08T04:47:18.455Z"
+    },
+    "fr/foundations/pronunciation-rules.md": {
+      "sourceHash": "3ceb48ff5de97025ec7e0e91321039c6907b3245323f86d56e45299c058278f4",
+      "model": "gpt-5-mini",
+      "translatedAt": "2026-09-08T04:47:58.126Z"
     },
     "fr/intro.md": {
       "sourceHash": "266cb39bbf1b5eba0127cf7db6e0f3e17277a967310c9a4ace3ab7f4c3553689",
