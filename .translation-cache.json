@@ -6,7 +6,11 @@
       "model": "existing"
     },
     "en/foundations/index.md": {
-      "sourceHash": "277d4db4f86e9eca91e4b62a372bf1a2d53f76a7c36cfb56ae9340516752d661",
+      "sourceHash": "9047c5a71560f172c90f19b5cfc99b36bf2d32749cfb5e5f4c03b834ba94ec0f",
+      "model": "existing"
+    },
+    "en/foundations/pronunciation-rules.md": {
+      "sourceHash": "579ca5a14e407d329eda3ef1ad3762f8f91a0dd99750783a06d3e480974e1698",
       "model": "existing"
     },
     "en/intro.md": {
@@ -34,7 +38,11 @@
       "model": "existing"
     },
     "fr/foundations/index.md": {
-      "sourceHash": "277d4db4f86e9eca91e4b62a372bf1a2d53f76a7c36cfb56ae9340516752d661",
+      "sourceHash": "9047c5a71560f172c90f19b5cfc99b36bf2d32749cfb5e5f4c03b834ba94ec0f",
+      "model": "existing"
+    },
+    "fr/foundations/pronunciation-rules.md": {
+      "sourceHash": "579ca5a14e407d329eda3ef1ad3762f8f91a0dd99750783a06d3e480974e1698",
       "model": "existing"
     },
     "fr/intro.md": {

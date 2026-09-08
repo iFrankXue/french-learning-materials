@@ -6,7 +6,11 @@ description: Start learning French with pronunciation, everyday vocabulary, and 
 
 Start with pronunciation, everyday vocabulary, and essential grammar to build a structured beginner learning path.
 
-:::info Content in progress
+## Contents
+
+- [Pronunciation rules](./pronunciation-rules.md): learn about the French alphabet, sounds, and common reading rules.
+
+:::info Updated regularly
 
 This section will continue to grow with structured resources for beginners.
 

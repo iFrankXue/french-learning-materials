@@ -6,7 +6,11 @@ description: Commencez par la prononciation, le vocabulaire courant et la gramma
 
 Commencez par la prononciation, le vocabulaire courant et la grammaire essentielle pour construire progressivement un parcours de niveau débutant.
 
-:::info Contenu en préparation
+## Contenu de cette rubrique
+
+- [Règles de prononciation](./pronunciation-rules.md) : découvrez l’alphabet français, les sons et les principales règles de lecture.
+
+:::info Mise à jour continue
 
 Cette rubrique sera régulièrement enrichie de ressources structurées pour les débutants.
 
